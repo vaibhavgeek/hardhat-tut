@@ -1,0 +1,4 @@
+hardhat.config.js
+*.main
+node_modules/
+frontend/node_modules/
